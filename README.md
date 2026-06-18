@@ -35,8 +35,13 @@ Currently sharpening problem-solving through DSA.
 - ✅ Sorting & Searching
 - 🔄 Recursion & Backtracking *(in progress)*
 - ⬜ Trees & Graphs *(upcoming)*
+- 
 ## 🔗 Connect With Me....
-[![LinkedIn]..(https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/abhishek-singh-7548b2331/))]
-[![LeetCode]..(https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Abhishek8888/))]
-[![Gmail]..(https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)][(mailto:abhishekk87538@gmail.com)]
-[![GitHub]..(https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)]((https://github.com/Abhishek9369))]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-7548b2331/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Abhishek8888/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhishekk87538@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Abhishek9369)

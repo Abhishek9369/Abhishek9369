@@ -86,17 +86,11 @@ public class AbhishekRaj {
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek9369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek9369&theme=tokyonight&hide_border=true" width="70%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=abhishek9369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek9369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Abhishek9369&theme=tokyonight&hide_border=true" width="70%"/>
 </div>
-
----
 
 ## 🔭 Currently Exploring
 

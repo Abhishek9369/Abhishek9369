@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ajay%20Pratap&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhishek%20Raj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+%7C+SDE+Aspirant;Backend+Development+%7C+Spring+Boot;200%2B+DSA+Problems+Solved+%26+Counting...;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
@@ -113,7 +113,7 @@ public class AbhishekRaj {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/abhishek-raj-7548b2331/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-raj-7548b2331/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Abhishek8888/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhshekk87538@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek9369)

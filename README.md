@@ -79,7 +79,7 @@ public class AbhishekRaj {
 | 📘 Topics Covered | Arrays, Strings, Trees, Graphs, DP, Sorting, Recursion | ✅ |
 | 🎯 Current Focus | Dynamic Programming · Graph Algorithms · System Design | 🚀 |
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AjayPratap01?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Abhishek8888/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AbhishekRaj01?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Abhishek8888/)
 
 </div>
 

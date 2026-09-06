@@ -24,7 +24,7 @@ public class AbhishekRaj {
     };
 
     String focus      = "Backend Development & SDE Roles";
-    String dsa        = "250+ Problems Solved (LeetCode) & Counting";
+    String dsa        = "400+ Problems Solved (LeetCode) & Counting";
     String goal       = "Land an SDE role at a top-tier company";
     boolean openToWork = true;
 }
@@ -75,7 +75,7 @@ public class AbhishekRaj {
 
 | Platform | Problems Solved | Status |
 |----------|----------------|--------|
-| 💻 LeetCode | 250+ | 🔥 Active Daily |
+| 💻 LeetCode | 400+ | 🔥 Active Daily |
 | 📘 Topics Covered | Arrays, Strings, Trees, Graphs, DP, Sorting, Recursion | ✅ |
 | 🎯 Current Focus | Dynamic Programming · Graph Algorithms · System Design | 🚀 |
 
